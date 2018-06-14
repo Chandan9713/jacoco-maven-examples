@@ -47,14 +47,14 @@
 	<repository>
 		<id>deployment</id>
 		<name>Internal Releases</name>
-		<url>https://github.com/Chandan9713/jacoco-maven-examples.git/</url>
+		<url>http://35.154.238.151:8081/repository/maven-releases//</url>
 		
 	</repository>
  
 	<snapshotRepository>
 		<id>deployment</id>
 		<name>Internal Releases</name>
-		<url>https://github.com/Chandan9713/jacoco-maven-examples.git</url>
+		<url>http://35.154.238.151:8081/repository/maven-snapshots</url>
 	</snapshotRepository>
 
 </distributionManagement>
